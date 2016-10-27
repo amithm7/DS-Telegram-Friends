@@ -1,5 +1,5 @@
 /**
-*@amithm7
+*Author: @amithm7
 *
 *Q: Second year Computer Engineering class of M students, set A of students play
 *cricket and set B of students play badminton. Write program to find and display-
